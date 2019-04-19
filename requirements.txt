@@ -2,3 +2,8 @@ jupyter
 numpy
 matplotlib
 pandas
+requests
+pillow
+scikit-image
+scipy
+opencv-python
