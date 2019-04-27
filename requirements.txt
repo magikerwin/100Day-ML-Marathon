@@ -8,3 +8,4 @@ scikit-image
 scipy
 opencv-python
 sklearn
+seaborn
