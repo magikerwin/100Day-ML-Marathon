@@ -1,5 +1,6 @@
 # 100 days of machine learning code challenge
 
+### 1. 資料清理數據前處理
 * Day001： 資料分析與評估
 * Day002： EDA - Data summary
 * Day003： EDA - Pandas Dataframe
@@ -12,10 +13,12 @@
 * Day010： EDA - from Correlation
 * Day011： EDA - Kernel Density Estimation (KDE)
 * Day012： EDA - 把連續型變數離散化
-* Day013： 程式實作 把連續型變數離散化
+* Day013： EDA - 把連續型變數離散化 實作
 * Day014： Subplots
 * Day015： Heatmap & Grid-plot
 * Day016： 模型初體驗 Logistic Regression
+
+### 2. 資料科學特徵工程技術
 * Day017： 特徵工程簡介
 * Day018： 特徵類型
 * Day019： 數值型特徵-補缺失值與標準化
@@ -30,6 +33,8 @@
 * Day028： 特徵選擇
 * Day029： 特徵評估
 * Day030： 分類型特徵優化 - 葉編碼
+
+### 3. 機器學習基礎模型建立
 * Day031： 機器學習概論
 * Day032： 機器學習-流程與步驟
 * Day033： 機器如何學習?
@@ -46,13 +51,19 @@
 * Day044： tree based model - 隨機森林程式碼撰寫
 * Day045： tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
 * Day046： tree based model - 梯度提升機程式碼撰寫
-* Day047： 超參數調整與優化
-* Day048： Kaggle 競賽平台介紹
-* Day049： 集成方法 - 混合泛化(Blending)
-* Day050： 集成方法 - 堆疊泛化(Stacking)
-* Day051： Kaggle期中考
-* Day052： Kaggle期中考
-* Day053： Kaggle期中考
+
+### 4. 機器學習調整參數
+* Day047： Hyperparameter Tuning
+* Day048： Kaggle introduction
+* Day049： Ensemble Learning - 混合泛化(Blending)
+* Day050： Ensemble Learning - 堆疊泛化(Stacking)
+
+### Kaggle 期中考
+* Day051： Kaggle Midterm Exam
+* Day052： Kaggle Midterm Exam
+* Day053： Kaggle Midterm Exam
+
+### 5. 非監督式學習
 * Day054： clustering 1 非監督式機器學習簡介
 * Day055： clustering 2 聚類算法
 * Day056： K-mean 觀察 - 使用輪廓分析
@@ -62,15 +73,30 @@
 * Day060： PCA 觀察 - 使用手寫辨識資料集.
 * Day061： dimension reduction 2 降維方法-T-SNE
 * Day062： t-sne 觀察 - 分群與流形還原
+
+### 6. 深度學習理論與實作
 * Day063： 神經網路介紹
 * Day064： 深度學習體驗 - 模型調整與學習曲線
 * Day065： 深度學習體驗 - 啟動函數與正規化
-* Day066： Keras 安裝與介紹
+
+### 7. 初探深度學習使用Keras
+* Day066： Keras installation
 * Day067： Keras Dataset
 * Day068： Keras Sequential API
 * Day069： Keras Module API
-* Day070： Multi-layer Perception多層感知
-* Day071： 損失函數
-* Day072： 啟動函數
-* Day073： 梯度下降Gradient Descent
-* Day074： Gradient Descent 數學原理
+* Day070： Multi-layer Perception
+* Day071： Loss Function
+* Day072： Activation Function
+* Day073： Gradient Descent
+* Day074： Gradient Descent
+* Day075： Back Propagation
+* Day076： Optimizer
+* Day077： Validation & Overfit
+* Day078： Training Tip
+* Day079： Learning Rate
+* Day080： Keras pratice - Optimizer/Learning Rate
+* Day081： Regularization
+* Day082： Dropout
+* Day083： BatchNorm
+* Day084： Keras pratice - Regularization/Dropout/BatchNorm
+* Day085： Keras callbacks & earlystop
