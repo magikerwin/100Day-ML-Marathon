@@ -2,13 +2,13 @@
 
 ### 1. 資料清理數據前處理
 * Day001： 資料分析與評估
-* Day002： EDA - Data summary
+* Day002： EDA - Data Summary
 * Day003： EDA - Pandas Dataframe
 * Day004： EDA - 欄位的資料類型介紹及處理
 * Day005： EDA - 資料分佈
 * Day006： EDA - Outlier 及處理
 * Day007： EDA - 常用的數值取代：中位數與分位數連續數值標準化
-* Day008： EDA - Pandas DataFrame operationDat/frame merge
+* Day008： EDA - Pandas DataFrame OperationDat/Frame Merge
 * Day009： EDA - correlation/相關係數簡介
 * Day010： EDA - from Correlation
 * Day011： EDA - Kernel Density Estimation (KDE)
@@ -39,18 +39,18 @@
 * Day032： 機器學習-流程與步驟
 * Day033： 機器如何學習?
 * Day034： 訓練/測試集切分的概念
-* Day035： regression vs. classification
+* Day035： Regression vs. Classification
 * Day036： 評估指標選定/evaluation metrics
-* Day037： regression model 介紹 - 線性迴歸/羅吉斯回歸
-* Day038： regression model 程式碼撰寫
-* Day039： regression model 介紹 - LASSO 回歸/ Ridge 回歸
-* Day040： regression model 程式碼撰寫
-* Day041： tree based model - 決策樹 (Decision Tree) 模型介紹
-* Day042： tree based model - 決策樹程式碼撰寫
-* Day043： tree based model - 隨機森林 (Random Forest) 介紹
-* Day044： tree based model - 隨機森林程式碼撰寫
-* Day045： tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
-* Day046： tree based model - 梯度提升機程式碼撰寫
+* Day037： Regression Model 介紹 - 線性迴歸/羅吉斯回歸
+* Day038： Regression Model 程式碼撰寫
+* Day039： Regression Model 介紹 - LASSO 回歸/ Ridge 回歸
+* Day040： Regression Model 程式碼撰寫
+* Day041： Tree Based Model - 決策樹 (Decision Tree) 模型介紹
+* Day042： Tree Based Model - 決策樹程式碼撰寫
+* Day043： Tree Based Model - 隨機森林 (Random Forest) 介紹
+* Day044： Tree Based Model - 隨機森林程式碼撰寫
+* Day045： Tree Based Model - 梯度提升機 (Gradient Boosting Machine) 介紹
+* Day046： Tree Based Model - 梯度提升機程式碼撰寫
 
 ### 4. 機器學習調整參數
 * Day047： Hyperparameter Tuning
@@ -64,14 +64,14 @@
 * Day053： Kaggle Midterm Exam
 
 ### 5. 非監督式學習
-* Day054： clustering 1 非監督式機器學習簡介
-* Day055： clustering 2 聚類算法
+* Day054： Clustering 1 非監督式機器學習簡介
+* Day055： Clustering 2 聚類算法
 * Day056： K-mean 觀察 - 使用輪廓分析
-* Day057： clustering 3 階層分群算法
+* Day057： Clustering 3 階層分群算法
 * Day058： 階層分群法 - 使用 2D 樣版資料集
-* Day059： dimension reduction 1 降維方法-主成份分析
+* Day059： Dimension Reduction 1 降維方法-主成份分析
 * Day060： PCA 觀察 - 使用手寫辨識資料集.
-* Day061： dimension reduction 2 降維方法-T-SNE
+* Day061： Dimension Reduction 2 降維方法-T-SNE
 * Day062： t-sne 觀察 - 分群與流形還原
 
 ### 6. 深度學習理論與實作
@@ -98,5 +98,20 @@
 * Day081： Regularization
 * Day082： Dropout
 * Day083： BatchNorm
-* Day084： Keras pratice - Regularization/Dropout/BatchNorm
-* Day085： Keras callbacks & earlystop
+* Day084： Keras Pratice - Regularization/Dropout/BatchNorm
+* Day085： Keras Callbacks - Earlystop
+* Day086： Keras Callbacks - Model saving
+* Day087： Keras Callbacks - Reduce Learning Rate
+* Day088： Custom Callbacks Function
+* Day089： Custom Loss Function
+* Day090： Traditional CV & ML
+* Day091： Pratice - Traditional CV & ML with CIFAR-10 
+
+### 8. 深度學習應用卷積神經網路
+* Day092： CNN Layers - Introduction 1
+* Day093： CNN Layers - Introduction 2
+* Day094： CNN Layers - Turning
+* Day095： Pooling Layers
+* Day096： Keras Pratice - CNN Layers
+* Day097： CNNs with CIFAR-10
+* Day098： Data Generator
