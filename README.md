@@ -1,4 +1,5 @@
 # 100 days of machine learning code challenge
+# https://ai100-2.cupoy.com/
 
 ### 1. 資料清理數據前處理
 * Day001： 資料分析與評估
