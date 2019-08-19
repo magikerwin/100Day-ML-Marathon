@@ -116,3 +116,10 @@
 * Day096： Keras Pratice - CNN Layers
 * Day097： CNNs with CIFAR-10
 * Day098： Data Generator
+* Day099： Data Augmentation
+* Day100： Transfer Learning
+
+### Kaggle 期末考
+* Day101： Kaggle Final Exam
+* Day102： Kaggle Final Exam
+* Day103： Kaggle Final Exam
