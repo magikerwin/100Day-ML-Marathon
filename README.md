@@ -1,125 +1,118 @@
-# 100 days of machine learning code challenge
-# https://ai100-2.cupoy.com/
+# 100Day-ML-Marathon
 
-### 1. 資料清理數據前處理
-* Day001： 資料分析與評估
-* Day002： EDA - Data Summary
-* Day003： EDA - Pandas Dataframe
-* Day004： EDA - 欄位的資料類型介紹及處理
-* Day005： EDA - 資料分佈
-* Day006： EDA - Outlier 及處理
-* Day007： EDA - 常用的數值取代：中位數與分位數連續數值標準化
-* Day008： EDA - Pandas DataFrame OperationDat/Frame Merge
-* Day009： EDA - correlation/相關係數簡介
-* Day010： EDA - from Correlation
-* Day011： EDA - Kernel Density Estimation (KDE)
-* Day012： EDA - 把連續型變數離散化
-* Day013： EDA - 把連續型變數離散化 實作
-* Day014： Subplots
-* Day015： Heatmap & Grid-plot
-* Day016： 模型初體驗 Logistic Regression
+![Alt text](./photos/cover.JPG)
+Personal upload space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com), which is a marathon of training your machine learning skill on [Kaggle](https://www.kaggle.com) in 100 consecutive days.
 
-### 2. 資料科學特徵工程技術
-* Day017： 特徵工程簡介
-* Day018： 特徵類型
-* Day019： 數值型特徵-補缺失值與標準化
-* Day020： 數值型特徵 - 去除離群值
-* Day021： 數值型特徵 - 去除偏態
-* Day022： 類別型特徵 - 基礎處理
-* Day023： 類別型特徵 - 均值編碼
-* Day024： 類別型特徵 - 其他進階處理
-* Day025： 時間型特徵
-* Day026： 特徵組合 - 數值與數值組合
-* Day027： 特徵組合 - 類別與數值組合
-* Day028： 特徵選擇
-* Day029： 特徵評估
-* Day030： 分類型特徵優化 - 葉編碼
-
-### 3. 機器學習基礎模型建立
-* Day031： 機器學習概論
-* Day032： 機器學習-流程與步驟
-* Day033： 機器如何學習?
-* Day034： 訓練/測試集切分的概念
-* Day035： Regression vs. Classification
-* Day036： 評估指標選定/evaluation metrics
-* Day037： Regression Model 介紹 - 線性迴歸/羅吉斯回歸
-* Day038： Regression Model 程式碼撰寫
-* Day039： Regression Model 介紹 - LASSO 回歸/ Ridge 回歸
-* Day040： Regression Model 程式碼撰寫
-* Day041： Tree Based Model - 決策樹 (Decision Tree) 模型介紹
-* Day042： Tree Based Model - 決策樹程式碼撰寫
-* Day043： Tree Based Model - 隨機森林 (Random Forest) 介紹
-* Day044： Tree Based Model - 隨機森林程式碼撰寫
-* Day045： Tree Based Model - 梯度提升機 (Gradient Boosting Machine) 介紹
-* Day046： Tree Based Model - 梯度提升機程式碼撰寫
-
-### 4. 機器學習調整參數
-* Day047： Hyperparameter Tuning
-* Day048： Kaggle introduction
-* Day049： Ensemble Learning - 混合泛化(Blending)
-* Day050： Ensemble Learning - 堆疊泛化(Stacking)
-
-### Kaggle 期中考
-* Day051： Kaggle Midterm Exam
-* Day052： Kaggle Midterm Exam
-* Day053： Kaggle Midterm Exam
-
-### 5. 非監督式學習
-* Day054： Clustering 1 非監督式機器學習簡介
-* Day055： Clustering 2 聚類算法
-* Day056： K-mean 觀察 - 使用輪廓分析
-* Day057： Clustering 3 階層分群算法
-* Day058： 階層分群法 - 使用 2D 樣版資料集
-* Day059： Dimension Reduction 1 降維方法-主成份分析
-* Day060： PCA 觀察 - 使用手寫辨識資料集.
-* Day061： Dimension Reduction 2 降維方法-T-SNE
-* Day062： t-sne 觀察 - 分群與流形還原
-
-### 6. 深度學習理論與實作
-* Day063： 神經網路介紹
-* Day064： 深度學習體驗 - 模型調整與學習曲線
-* Day065： 深度學習體驗 - 啟動函數與正規化
-
-### 7. 初探深度學習使用Keras
-* Day066： Keras installation
-* Day067： Keras Dataset
-* Day068： Keras Sequential API
-* Day069： Keras Module API
-* Day070： Multi-layer Perception
-* Day071： Loss Function
-* Day072： Activation Function
-* Day073： Gradient Descent
-* Day074： Gradient Descent
-* Day075： Back Propagation
-* Day076： Optimizer
-* Day077： Validation & Overfit
-* Day078： Training Tip
-* Day079： Learning Rate
-* Day080： Keras pratice - Optimizer/Learning Rate
-* Day081： Regularization
-* Day082： Dropout
-* Day083： BatchNorm
-* Day084： Keras Pratice - Regularization/Dropout/BatchNorm
-* Day085： Keras Callbacks - Earlystop
-* Day086： Keras Callbacks - Model saving
-* Day087： Keras Callbacks - Reduce Learning Rate
-* Day088： Custom Callbacks Function
-* Day089： Custom Loss Function
-* Day090： Traditional CV & ML
-* Day091： Pratice - Traditional CV & ML with CIFAR-10 
-
-### 8. 深度學習應用卷積神經網路
-* Day092： CNN Layers - Introduction 1
-* Day093： CNN Layers - Introduction 2
-* Day094： CNN Layers - Turning
-* Day095： Pooling Layers
-* Day096： Keras Pratice - CNN Layers
-* Day097： CNNs with CIFAR-10
-* Day098： Data Generator
-* Day099： Data Augmentation
-* Day100： Transfer Learning
-
-### Kaggle 期末考
-* Day101： Kaggle Final Exam
-* Day102： Kaggle Final Exam
-* Day103： Kaggle Final Exam
+### Clean Data and Data Preprocessing
+- Day 001 : Data Introduction and Assessment
+- Day 002 : Exploratory Data Analysis(EDA)
+- Day 003 : Build [Pandas](https://pandas.pydata.org/) DataFrame
+- Day 004 : Pandas Data Types
+- Day 005 : EDA Distribution
+- Day 006 : Handle Outlier Data
+- Day 007 : Normalize Continuous Data
+- Day 008 : DataFrame operation / Data frame merge
+- Day 009 : EDA Correlation 1
+- Day 010 : EDA Correlation 2
+- Day 011 : Kernal Density Estimation (KDE)
+- Day 012 : Discretization Method
+- Day 013 : Implement Discretization Method
+- Day 014 : Subplot using [Matplotib](https://matplotlib.org/)
+- Day 015 : Heatmap and Grid-plot
+- Day 016 : Logistic Regression
+### Feature Engineering
+- Day 017 : Introduction of Feature Engineering
+- Day 018 : Feture Types
+- Day 019 : [Value Type] Insert Value for Lost Information
+- Day 020 : [Value Type] Remove Outlier
+- Day 021 : [Value Type] Remove Bias
+- Day 022 : [Class Type] One-Hot and Label Encoding
+- Day 023 : [Class Type] Mean Encoding
+- Day 024 : [Class Type] Other Advanced Processing
+- Day 025 : [Time Type] Time Cycle
+- Day 026 : Feature Combination (Value and Value)
+- Day 027 : Feature Combination (Value and Class)
+- Day 028 : Feature Selection
+- Day 029 : Feature Estimation
+- Day 030 : Leaf Encoding on Class Type Feature
+### Machine Learning Model Building
+- Day 031 : Introduction of Machine Learning
+- Day 032 : Framework and Process in Machine Learning
+- Day 033 : How to Teach Machine?
+- Day 034 : Split Training and Evaluation Set
+- Day 035 : Regression vs. Classification
+- Day 036 : Evaluation Metrics
+- Day 037 : Regression Model Introdoction ([Linear](https://en.wikipedia.org/wiki/Linear_regression) / [Logistic](https://en.wikipedia.org/wiki/Logistic_regression))
+- Day 038 : Rgression Model Implement (Linear / Logistic)
+- Day 039 : Regression Model Introdoction ([LASSO](https://en.wikipedia.org/wiki/Lasso_(statistics)) / [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization))
+- Day 040 : Rgression Model Implement (LASSO / Ridge)
+- Day 041 : Tree Based Model Introdoction ([Decision Tree](https://en.wikipedia.org/wiki/Decision_tree))
+- Day 042 : Tree Based Model Implement (Decision Tree)
+- Day 043 : Tree Based Model Introdoction ([Random Forest](https://en.wikipedia.org/wiki/Random_forest))
+- Day 044 : Tree Based Model Implement (Random Forest)
+- Day 045 : Tree Based Model Introdoction ([Gradient Boosting Machine](https://en.wikipedia.org/wiki/Gradient_boosting))
+- Day 046 : Tree Based Model Implement (Gradient Boosting Machine)
+### Machine Learning Fine-tuning
+- Day 047 : Hyper-Parameters Tuning and Optimization
+- Day 048 : Introduction of [Kaggle](https://www.kaggle.com)
+- Day 049 : Bleding Method
+- Day 050 : Stacking Method
+### Mid-Term Exam
+- Day 051 : Mid-Term Exam (1/3)
+- Day 052 : Mid-Term Exam (2/3)
+- Day 053 : Mid-Term Exam (3/3)
+### Unsupervised Learning
+- Day 054 : Introduction of Unsupervised Learning
+- Day 055 : Clustering Method
+- Day 056 : [K-Mean](https://en.wikipedia.org/wiki/K-means_clustering)
+- Day 057 : Hierarchical Clustering
+- Day 058 : Hierarchical Clustering on 2D Toy Dataset
+- Day 059 : Dimension Reduction - [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis)
+- Day 060 : PCA on [MNIST](http://yann.lecun.com/exdb/mnist/)
+- Day 061 : Dimension Reduction - [T-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
+- Day 062 : T-SNE Implement
+### Deep Learning Theory and Implement
+- Day 063 : Introduction of Neural Netork
+- Day 064 : Experience on [TensorFlow PlayGround](https://playground.tensorflow.org) (Learning Rate)
+- Day 065 : Experience on [TensorFlow PlayGround](https://playground.tensorflow.org) (Activation Function/ Regularization)
+### Deep Learning on [Keras](https://keras.io/)
+- Day 066 : Introducion of Keras
+- Day 067 : Keras Dataset
+- Day 068 : Keras Sequential API
+- Day 069 : Keras Module API
+- Day 070 : Multi-Layer Perception (MLP)
+- Day 071 : Loss Functions
+- Day 072 : Activation Function
+- Day 073 : Gradient Descend (1/2)
+- Day 074 : Gradient Descend (2/2)
+- Day 075 : Back Propagation
+- Day 076 : Optimizers
+- Day 077 : Validation and Overfitting
+- Day 078 : KeyNote before Training Model
+- Day 079 : Learning Rate Effect
+- Day 080 : Combination of Optomizer and Learning Rate
+- Day 081 : Avoid Overfitting - Regularization
+- Day 082 : Avoid Overfitting - [Dropout](https://en.wikipedia.org/wiki/Dropout_(neural_networks))
+- Day 083 : Avoid Overfitting - [Batch Normalization](https://en.wikipedia.org/wiki/Batch_normalization)
+- Day 084 : Avoid Overfitting - Hyper-Parameters Tuning and Comparison
+- Day 085 : Avoid Overfitting - Early Stop
+- Day 086 : Saving and Restoring Model
+- Day 087 : Learning Rate Decay
+- Day 088 : Design your Keras Callbacks Function
+- Day 089 : Design your Loss Funciton
+- Day 090 : Image Recognition using Tranditional Computer Vsion Methods 
+- Day 091 : Image Recognition using Machine Learning Model
+### [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network) in Deep Learning
+- Day 092 : Introdoction of CNN (1/2)
+- Day 093 : Introdoction of CNN (2/2)
+- Day 094 : Parameters Tuning in CNN Layer
+- Day 095 : Pooling Layer in Keras
+- Day 096 : CNN Layer in Keras
+- Day 097 : CNN vs. DNN on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
+- Day 098 : Data Generator in Keras
+- Day 099 : Data Augmentation in Keras
+- Day 100 : Transfer Learning
+### Final Exam
+- Day 101 : Final Exam (1/3)
+- Day 102 : Final Exam (2/3)
+- Day 103 : Final Exam (3/3)
