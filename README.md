@@ -1,7 +1,8 @@
 # 100Day-ML-Marathon
 
-![Alt text](https://github.com/qwerzxcv98/100Day-ML-Marathon/blob/master/Certificate.pdf)
 Personal uploading space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com), which is a marathon of training your machine learning skill on [Kaggle](https://www.kaggle.com) in 100 consecutive days.
+
+[Certificate] https://github.com/qwerzxcv98/100Day-ML-Marathon/blob/master/Certificate.pdf
 
 ### Clean Data and Data Preprocessing
 - Day 001 : Data Introduction and Assessment
