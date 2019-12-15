@@ -1,10 +1,10 @@
-# 100Day-ML-Marathon
+# :runner: 100Day-ML-Marathon
 
 Personal uploading space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com), which is a marathon of training your machine learning skill on [Kaggle](https://www.kaggle.com) in 100 consecutive days.
 
-[Certificate] https://github.com/qwerzxcv98/100Day-ML-Marathon/blob/master/Certificate.pdf
+### :trophy: [Certificate] https://github.com/qwerzxcv98/100Day-ML-Marathon/blob/master/Certificate.pdf
 
-### Clean Data and Data Preprocessing
+## :triangular_flag_on_post: Clean Data and Data Preprocessing
 - Day 001 : Data Introduction and Assessment
 - Day 002 : Exploratory Data Analysis(EDA)
 - Day 003 : Build [Pandas](https://pandas.pydata.org/) DataFrame
@@ -21,7 +21,7 @@ Personal uploading space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com)
 - Day 014 : Subplot using [Matplotib](https://matplotlib.org/)
 - Day 015 : Heatmap and Grid-plot
 - Day 016 : Logistic Regression
-### Feature Engineering
+## :triangular_flag_on_post: Feature Engineering
 - Day 017 : Introduction of Feature Engineering
 - Day 018 : Feture Types
 - Day 019 : [Value Type] Insert Value for Lost Information
@@ -36,7 +36,7 @@ Personal uploading space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com)
 - Day 028 : Feature Selection
 - Day 029 : Feature Estimation
 - Day 030 : Leaf Encoding on Class Type Feature
-### Machine Learning Model Building
+## :triangular_flag_on_post: Machine Learning Model Building
 - Day 031 : Introduction of Machine Learning
 - Day 032 : Framework and Process in Machine Learning
 - Day 033 : How to Teach Machine?
@@ -53,16 +53,16 @@ Personal uploading space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com)
 - Day 044 : Tree Based Model Implement (Random Forest)
 - Day 045 : Tree Based Model Introdoction ([Gradient Boosting Machine](https://en.wikipedia.org/wiki/Gradient_boosting))
 - Day 046 : Tree Based Model Implement (Gradient Boosting Machine)
-### Machine Learning Fine-tuning
+## :triangular_flag_on_post: Machine Learning Fine-tuning
 - Day 047 : Hyper-Parameters Tuning and Optimization
 - Day 048 : Introduction of [Kaggle](https://www.kaggle.com)
 - Day 049 : Bleding Method
 - Day 050 : Stacking Method
-### Mid-Term Exam
+## :checkered_flag: Mid-Term Exam
 - Day 051 : Mid-Term Exam (1/3)
 - Day 052 : Mid-Term Exam (2/3)
 - Day 053 : Mid-Term Exam (3/3)
-### Unsupervised Learning
+## :triangular_flag_on_post: Unsupervised Learning
 - Day 054 : Introduction of Unsupervised Learning
 - Day 055 : Clustering Method
 - Day 056 : [K-Mean](https://en.wikipedia.org/wiki/K-means_clustering)
@@ -72,11 +72,11 @@ Personal uploading space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com)
 - Day 060 : PCA on [MNIST](http://yann.lecun.com/exdb/mnist/)
 - Day 061 : Dimension Reduction - [T-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
 - Day 062 : T-SNE Implement
-### Deep Learning Theory and Implement
+## :triangular_flag_on_post: Deep Learning Theory and Implement
 - Day 063 : Introduction of Neural Netork
 - Day 064 : Experience on [TensorFlow PlayGround](https://playground.tensorflow.org) (Learning Rate)
 - Day 065 : Experience on [TensorFlow PlayGround](https://playground.tensorflow.org) (Activation Function/ Regularization)
-### Deep Learning on [Keras](https://keras.io/)
+## :triangular_flag_on_post: Deep Learning on [Keras](https://keras.io/)
 - Day 066 : Introducion of Keras
 - Day 067 : Keras Dataset
 - Day 068 : Keras Sequential API
@@ -103,7 +103,7 @@ Personal uploading space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com)
 - Day 089 : Design your Loss Funciton
 - Day 090 : Image Recognition using Tranditional Computer Vsion Methods 
 - Day 091 : Image Recognition using Machine Learning Model
-### [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network) in Deep Learning
+## :triangular_flag_on_post: [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network) in Deep Learning
 - Day 092 : Introdoction of CNN (1/2)
 - Day 093 : Introdoction of CNN (2/2)
 - Day 094 : Parameters Tuning in CNN Layer
@@ -113,7 +113,7 @@ Personal uploading space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com)
 - Day 098 : Data Generator in Keras
 - Day 099 : Data Augmentation in Keras
 - Day 100 : Transfer Learning
-### Final Exam
+## :checkered_flag: Final Exam
 - Day 101 : Final Exam (1/3)
 - Day 102 : Final Exam (2/3)
 - Day 103 : Final Exam (3/3)
