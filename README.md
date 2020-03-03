@@ -4,7 +4,7 @@ Personal uploading space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com)
 
 <img src=https://ai100-2.cupoy.com/images/landing.png>
 
-### :trophy: [Certificate] https://github.com/qwerzxcv98/100Day-ML-Marathon/blob/master/Certificate.pdf
+### :trophy: [Certificate] https://github.com/magikerwin1993/100Day-ML-Marathon/blob/master/Certificate.pdf
 
 ## :triangular_flag_on_post: Clean Data and Data Preprocessing
 - [Day 001](https://github.com/magikerwin1993/100Day-ML-Marathon/tree/master/2nd-ML100Days/homework/D-001) : Data Introduction and Assessment
